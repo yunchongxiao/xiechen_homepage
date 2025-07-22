@@ -9,51 +9,40 @@ redirect_from:
   - /
 lang: en
 ---
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
+# About Me
+Hello, I'm Xie Chen. I am currently a Tenure-Track Associate Professor and Ph.D. supervisor in the Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU). My academic journey began with a bachelor's degree from Xiamen University, followed by a master's from Tsinghua University, and culminated in a Ph.D. from the Department of Engineering at the University of Cambridge. Before joining SJTU in the fall of 2021, I was a postdoctoral Research Associate at Cambridge and later served as a Senior and Principal Researcher at Microsoft's speech and language research group in Seattle.   
 
-I have been very fortunate to study and live in many great cities over the past decades. I received my Ph.D degree from the Engineering Department of Cambridge University in 2017, under the supervision of Prof. Mark Gales. Before entering Cambridge, I received my bachelor and master degrees from Xiamen University and Tsinghua University in 2009 and 2012 respectively. I also was a Research Associate at Cambridge from 2016 to 2018 after graduation. Then I spent three wonderful years in the speech and language research group of Microsoft in Seattle as a senior and principal researcher from 2018 to 2021. I joined the Computer Science and Engineering department of SJTU as an associate professor since Oct. 2021. I am also a member of the SJTU X-LANCE lab.
+My transition from a world-leading industrial research lab back to academia was driven by a desire to pursue pioneering, independent research and to dedicate myself to mentoring the next generation of AI scientists. I am a core member of the SJTU X-LANCE Lab, where our team explores the frontiers of intelligent speech, natural language processing, and multi-modality information processing. My primary research interests include:   
 
-My current research interests mainly lie in deep learning, especially in its application on speech and multi-modality processing, including speech recognition, speech-oriented self-supervised learning, and audio-driven talking head.
+- Deep learning and its applications in intelligent speech signal processing    
+- End-to-end speech recognition, synthesis, and translation    
+- Speech-oriented self-supervised learning    
+- Audio-driven talking head technology    
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=d6u01FkAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=d6u01FkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# Teaching
+I am actively involved in teaching both undergraduate and graduate courses, aiming to provide students with a solid foundation in computer science theory and practice. The core courses I have taught or co-taught include:
+
+- Deep Learning
+- Programming Paradigms (C++)
+- You can find related course materials and code on my personal GitHub.   
+
+# Research Projects
+My research is supported by the National Natural Science Foundation of China (NSFC). I am currently the Principal Investigator (PI) for the following project:
+
+> Project Title: Towards Decoupling Acoustic and Linguistic Information in End-to-End Speech Recognition Systems  
+> Program: NSFC Young Scientists Program  
+> Grant No.: 62206171  
+> Period: 2023 - 2026     
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Recruitment
+I am always looking for self-motivated, curious, and enthusiastic students to join my team. Whether you are an undergraduate intern, a Master's applicant, or a Ph.D. candidate, I welcome you to reach out.   
 
-# 📝 Publications 
+I hope you have:
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- A foundational knowledge of machine learning, especially deep learning.
+- A passion for coding and independent thinking.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+If my research direction interests you and you are eager to grow in an open, collaborative environment, please feel free to contact me via email (chenxie95@sjtu.edu.cn) to explore the endless possibilities of AI together.   
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=d6u01FkAAAAJ&citation_for_view=d6u01FkAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='d6u01FkAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)

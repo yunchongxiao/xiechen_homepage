@@ -3,43 +3,29 @@ en:
   - title: "About Me"
     url: "/en#about-me"
 
-  - title: "News"
-    url: "/en#-news"
+  - title: "Talks"
+    url: "/en/talk"
 
-  - title: "Publications"
-    url: "/en#-publications"
+  - title: "Projects"
+    url: "/en/project"
 
   - title: "Honors and Awards"
-    url: "/en#-honors-and-awards"
+    url: "/en/honor"
 
-  - title: "Educations"
-    url: "/en#-educations"
-
-  - title: "Invited Talks"
-    url: "/en#-invited-talks"
-
-  - title: "Test Page"
-    url: "/en/test-page"
-
-
+  - title: "Publications"
+    url: "/en/publication"
 zh:
   - title: "个人简介"
     url: "/zh#about-me"
+    
+  - title: "讲座报告"
+    url: "/zh/talk"
 
-  - title: "最新动态"
-    url: "/zh#-news"
+  - title: "开源项目"
+    url: "/zh/project"
+
+  - title: "师生荣誉"
+    url: "/zh/honor"
 
   - title: "学术成果"
-    url: "/zh#-publications"
-
-  - title: "获奖荣誉"
-    url: "/zh#-honors-and-awards"
-
-  - title: "教育经历"
-    url: "/zh#-educations"
-
-  - title: "特邀报告"
-    url: "/zh#-invited-talks"
-  
-  - title: "测试页面"
-    url: "/zh/test-page"
+    url: "/zh/publication"

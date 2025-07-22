@@ -1,3 +1,64 @@
+# How to Add a New Page in AcadHomepage
+
+## 1. Overview
+This guide explains how to add a new bilingual (English/Chinese) page to the AcadHomepage template, ensuring it appears in navigation and functions correctly.
+## 2. Steps
+2.1 Update Navigation Menu
+Add links for the new page to the navigation config file to make it visible in menus.  
+
+File path: `_data/navigation.yml`
+Format:
+```yaml
+en:
+  - title: "Test Page"  # English menu label
+    url: "/en/test-page"  # English page URL  
+zh:
+  - title: "测试页面"  # Chinese menu label
+    url: "/zh/test-page"  # Chinese page URL  
+```
+### 2.2 Create Page Files
+Add Markdown files for both languages in the _pages directory, with paths matching the URLs in `navigation.yml`.
+### 2.2.1 English Page
+File path: `_pages/en/test-page.md`
+Content:
+```markdown
+---
+permalink: /en/test-page  # Must match URL in navigation.yml (en)
+title: "Test Page"  # Optional; uses menu title if empty
+lang: en  
+---
+
+This is a Test Page!  
+(Add content using Markdown: headings, images, links, etc.)
+```
+### 2.2.2 Chinese Page
+File path: `_pages/zh/test-page.md`
+Content:
+```markdown
+---
+permalink: /zh/test-page  # Must match URL in navigation.yml (zh)
+title: "测试页面"  # Optional; uses menu title if empty
+lang: zh  
+---
+
+这是一个测试页面！  
+（使用Markdown添加内容：标题、图片、链接等）
+```
+## 2.3 Edit Content
+Use Markdown syntax to refine page content as needed.
+
+
+## 2.4 Verify
+Run the local server `bash run_server.sh`.  
+Check:
+New page links appear in navigation.
+Links redirect to the correct pages.
+Content displays without errors.
+# 3. Key Notes
+Ensure permalink in page files matches url in navigation.yml.  
+Filenames can be descriptive but don’t affect the page URL (determined by permalink).
+
+---
 
 <h1 align="center">
 AcadHomepage

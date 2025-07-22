@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 lang: zh
 ---
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -17,43 +16,38 @@ lang: zh
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# 个人简介
+大家好，我是陈谐。我目前是上海交通大学计算机科学与工程系的长聘教轨副教授、博士生导师 。我的学术旅程始于厦门大学（学士），随后在清华大学获得硕士学位，并最终在英国剑桥大学信息工程系获得博士学位 。在2021年秋季加入上海交通大学之前，我曾在剑桥大学从事博士后研究，之后在美国西雅图的微软总部语音与语言研究组担任高级及资深研究员 。   
 
-在过去的数十年间，我有幸在多个卓越的城市求学与生活。2017年，我在剑桥大学工程系获得博士学位，师从Mark Gales教授。进入剑桥之前，我先后于2009年和2012年获得厦门大学学士学位与清华大学硕士学位。2016至2018年博士毕业后，我在剑桥大学担任副研究员。随后于2018至2021年间，我在西雅图微软研究院语音与语言研究组度过了三年充实的时光，先后担任高级研究员和首席研究员。2021年10月起，我加入上海交通大学计算机科学与工程系任副教授，同时担任上海交通大学X-LANCE实验室核心成员。
+从世界顶级的工业研究院回归学术界，我希望能专注于更具开创性的独立研究，并全身心投入到培养下一代AI人才的工作中。我目前是上海交通大学跨媒体语言智能实验室 (X-LANCE Lab) 的一员，我们的团队致力于在智能语音、自然语言处理及多模态信息处理等前沿领域进行探索 。我的主要研究方向包括：   
 
-我的研究方向主要集中在深度学习领域，特别是其在语音与多模态处理中的应用，包括语音识别、面向语音的自监督学习以及音频驱动的虚拟人像生成。此外，我的研究还涉及神经机器翻译和计算机视觉方向。已在国际顶级人工智能会议发表论文100余篇，<a href='https://scholar.google.com/citations?user=d6u01FkAAAAJ'>谷歌学术引用总量<strong><span id='total_cit'>26万+</span></strong></a>（也可使用学术徽章 <a href='https://scholar.google.com/citations?user=d6u01FkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>）
+- 深度学习及其在智能语音信号处理中的应用    
+- 端到端语音识别、合成与翻译    
+- 面向语音的自监督学习    
+- 音频驱动的虚拟人技术    
 
+# 授课信息
+我积极投身于本科生和研究生的教学工作，致力于为学生们打下坚实的计算机科学理论与实践基础。我曾主讲或参与教授的核心课程包括：
 
-<!-- 因为滑动效果不支持中文anchor，所以在中文版的markdown中要用h1标签代替“#”语法 -->
-<h1 id="-news">最新动态</h1>
-- *2022.02*: &nbsp;🎉🎉 研究成果被CVPR会议收录（此处应为具体成果描述）
-- *2022.02*: &nbsp;🎉🎉 担任NeurIPS领域主席（示例内容）
+- 深度学习 (Deep Learning)
+- 程序设计思想 (C++)
+- 相关的课程资料和代码可以在我的个人GitHub上找到 。   
 
+# 科研项目
+我的研究工作得到了国家自然科学基金的支持。目前，我作为项目负责人（PI）正在主持以下项目：
 
-<h1 id="-publications">学术成果</h1>
+> 项目名称: 面向端到端语音识别系统的声学和语言学信息解耦研究  
+> 项目类别: 国家自然科学基金青年科学家项目  
+> 批准号: 62206171  
+> 执行期限: 2023年 - 2026年    
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='/images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 招生信息
+我始终在寻找对未知充满好奇、对科研抱有热情的优秀学生加入我的团队。无论你是希望参与前沿研究的本科实习生，还是寻求深造的硕士或博士研究生，我都非常欢迎 。   
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+我希望你：
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- 具备机器学习，特别是深度学习的基础知识。
+- 享受编程和独立思考带来的乐趣。
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=d6u01FkAAAAJ&citation_for_view=d6u01FkAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='d6u01FkAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-<h1 id="-honors-and-awards">获奖荣誉</h1>
-- *2021.10* 获得ACM杰出科学家称号（示例）
-- *2021.09* 入选AI 2000最具影响力学者（示例） 
-
-<h1 id="-educations">教育经历</h1>
-- *2019.06 - 2022.04* 麻省理工学院，计算机科学，博士后（示例）
-- *2015.09 - 2019.06* 清华大学，计算机科学与技术，博士 
-
-<h1 id="-invited-talks">特邀报告</h1>
-- *2021.06* 国际人工智能大会主题报告（示例内容） 
-- *2021.03* IEEE学术峰会特邀讲座 \| [\[视频回放\]](https://github.com/)
+如果你对我的研究方向感兴趣，并渴望在一个开放、协作的环境中成长，欢迎随时通过邮件 (chenxie95@sjtu.edu.cn) 与我联系，我们一起探索AI的无限可能 。   
 
