@@ -13,8 +13,8 @@ assets:
 # Site Settings
 title                    : "Xie Chen"
 description              :
-  en: "Associate Professor @ CS in Shanghai Jiao Tong University. "
-  zh: "上海交通大学计算机系副教授"
+  en: "CS in Shanghai Jiao Tong University. "
+  zh: "上海交通大学计算机学院"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 

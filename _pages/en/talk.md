@@ -9,9 +9,17 @@ redirect_from:
   - /
 lang: en
 ---
+
 # Talks
-I enjoy sharing our team's latest research progress and exchanging ideas with peers at academic conferences and universities.
 
-- Invited Talk: In May 2023, I was invited by Hunan University of Humanities, Science and Technology to give a talk titled "Multilingual Simultaneous Interpretation and Audio-Driven Talking Head," where I shared the latest advancements from the X-LANCE Lab in conversational AI.   
+- "Speech Synthesis with Discrete Speech Tokens", ICASSP Tutorial, 2025
+- "Multi-Modal Large Language Modeling", ISCSLP Tutorial, 2024
+- "Factorized End-to-End Speech Recognition with Efficient Language Model Adaptation", NCMMSC Younth Forum, 2022
 
-- Academic Service: I served as a Session Chair for the "Adaptation and Personalization for Speech Models" session at the top-tier conference IEEE ICASSP 2022.
+# Academic Servcies
+
+- LAC – Technical Program Chairs, ICASSP 2025 Satellite Event Suzhou, China
+- Invited Speaker Chairs, SLT 2024
+- "[Speech Processing in LLM Era](http://www.iscslp2024.com/LLM)", Special Session, ISCSLP 2024
+- Technique Program Chair, NCMMSC 2023, 2024
+

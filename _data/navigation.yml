@@ -3,10 +3,10 @@ en:
   - title: "About Me"
     url: "/en#about-me"
 
-  - title: "Talks"
+  - title: "Talks and Services"
     url: "/en/talk"
 
-  - title: "Projects"
+  - title: "Open-Source Projects"
     url: "/en/project"
 
   - title: "Honors and Awards"
@@ -18,14 +18,14 @@ zh:
   - title: "个人简介"
     url: "/zh#about-me"
     
-  - title: "讲座报告"
+  - title: "学术报告和服务"
     url: "/zh/talk"
 
   - title: "开源项目"
     url: "/zh/project"
 
-  - title: "师生荣誉"
+  - title: "获奖信息"
     url: "/zh/honor"
 
-  - title: "学术成果"
+  - title: "发表论文"
     url: "/zh/publication"

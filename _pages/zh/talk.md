@@ -8,9 +8,17 @@ redirect_from:
   - /talk.html
 lang: zh
 ---
-# 公开讲座
-我乐于在学术会议和高校中分享我们团队的最新研究进展，与同行进行交流。
+# 学术报告
 
-特邀学术报告: 2023年5月，我应湖南人文科技学院邀请，作了题为“多语言同声传译和语音驱动的数字人”的专题学术讲座，分享了X-LANCE实验室在对话式AI领域的最新成果 。   
+- "基于离散表征的语音合成"，ICASSP教程报告, 2025
+- "多模态大语言模型"， ISCSLP教程报告，2024
+- "基于信息解耦的端到端语音识别系统和高效语言模型自适应"， 全国人机语音通讯青年论坛， 2022
 
-学术会议服务: 我曾担任人工智能领域顶级会议 IEEE ICASSP 2022 “语音模型自适应与个性化”分会的主席 (Session Chair) 。  
+# 学术服务
+
+- LAC – Technical Program Chairs, ICASSP 2025 Satellite Event Suzhou, China
+- Invited Speaker Chairs, SLT 2024
+- "[Speech Processing in LLM Era](http://www.iscslp2024.com/LLM)", Special Session, ISCSLP 2024
+- Technique Program Chair, NCMMSC 2023, 2024
+
+

@@ -10,39 +10,62 @@ redirect_from:
 lang: en
 ---
 <span class='anchor' id='about-me'></span>
-# About Me
-Hello, I'm Xie Chen. I am currently a Tenure-Track Associate Professor and Ph.D. supervisor in the Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU). My academic journey began with a bachelor's degree from Xiamen University, followed by a master's from Tsinghua University, and culminated in a Ph.D. from the Department of Engineering at the University of Cambridge. Before joining SJTU in the fall of 2021, I was a postdoctoral Research Associate at Cambridge and later served as a Senior and Principal Researcher at Microsoft's speech and language research group in Seattle.   
 
-My transition from a world-leading industrial research lab back to academia was driven by a desire to pursue pioneering, independent research and to dedicate myself to mentoring the next generation of AI scientists. I am a core member of the SJTU X-LANCE Lab, where our team explores the frontiers of intelligent speech, natural language processing, and multi-modality information processing. My primary research interests include:   
+# Biography
 
-- Deep learning and its applications in intelligent speech signal processing    
-- End-to-end speech recognition, synthesis, and translation    
-- Speech-oriented self-supervised learning    
-- Audio-driven talking head technology    
+I am currently a Tenure-Track Associate Professor and Ph.D. advisor at the School of Computer Science, Shanghai Jiao Tong University, China. My research focuses on intelligent speech signal processing, including audio understanding, audio generation, and speech-to-speech dialogue systems. 
+
+Over the past decade, I have been fortunate to live, study, and work in several wonderful cities — from Loudi@Hunan → Xiamen → Beijing → Cambridge → Seattle → Shanghai — and to meet many great mentors and collaborators along the way.
+
+I am also a member of the [X-LANCE Lab](https://x-lance.github.io/zh/) at SJTU, where we explore cutting-edge research in speech AI, natural language processing, and multimodal information processing.
+
+My current research interests include:
+
+- Audio foundation models  
+- Audio (including speech, sound, and music) understanding and generation   
+- Speech recognition, synthesis, and translation  
+- Self-supervised learning for audio signal  
+- Audio-driven talking-face (Avatar)   
+
+# Education
+
+- 2005 – 2009: B.Eng., Department of Electronic Engineering, Xiamen University  
+- 2009 – 2012: M.Eng., Department of Electronic Engineering, Tsinghua University (Advisor: Prof. Jia Liu)  
+- 2012 – 2016: Ph.D., Department of Information Engineering, University of Cambridge (Advisor: Prof. Mark Gales)  
+
+# Work Experience
+
+- 2011 – 2012: Research Intern, Speech Group, Microsoft Research (Advisor: Frank Seide)  
+- 2016 – 2017: Postdoctoral Researcher, University of Cambridge (Advisor: Prof. Mark Gales)  
+- 2018 – 2021: Senior/Principal Researcher, Speech and Dialogue Research Group, Microsoft, USA  
+- 2021 – Present: Associate Professor, School of Computer Science and Engineering, Shanghai Jiao Tong University  
 
 # Teaching
-I am actively involved in teaching both undergraduate and graduate courses, aiming to provide students with a solid foundation in computer science theory and practice. The core courses I have taught or co-taught include:
 
-- Deep Learning
-- Programming Paradigms (C++)
-- You can find related course materials and code on my personal GitHub.   
+I currently teach the following core courses:
 
-# Research Projects
-My research is supported by the National Natural Science Foundation of China (NSFC). I am currently the Principal Investigator (PI) for the following project:
+- Practice on Deep Learning  
+- Programming Ideas and Methods (C++)  
+- Relevant course materials and source code can be found on my [GitHub](https://github.com/)  
 
-> Project Title: Towards Decoupling Acoustic and Linguistic Information in End-to-End Speech Recognition Systems  
-> Program: NSFC Young Scientists Program  
-> Grant No.: 62206171  
-> Period: 2023 - 2026     
+<!-- Note: Only completed industry projects are listed -->  
+
+# Openings
+
+We are committed to building an open, relaxed, and collaborative research environment, where every student can grow and find a path that suits them.
+
+We are always looking for excellent students — including undergraduates, master's students, and Ph.D. candidates — who are curious, courageous, and passionate about research, to explore the future of AI and work together on meaningful and impactful research.
+
+You are welcome if you:
+
+- Have a solid foundation in mathematics  
+- Have basic knowledge of machine learning, especially deep learning  
+- Enjoy programming and independent thinking  
+- Are passionate about speech AI  
+
+If you are interested in my research and would like to pursue a research internship (remote is also possible) or collaboration, feel free to contact me via email.
+
+For master's or Ph.D. applicants, please indicate your interest in the email and attach your CV. I will get back to you as soon as possible if I still have openings.
 
 
-# Recruitment
-I am always looking for self-motivated, curious, and enthusiastic students to join my team. Whether you are an undergraduate intern, a Master's applicant, or a Ph.D. candidate, I welcome you to reach out.   
-
-I hope you have:
-
-- A foundational knowledge of machine learning, especially deep learning.
-- A passion for coding and independent thinking.
-
-If my research direction interests you and you are eager to grow in an open, collaborative environment, please feel free to contact me via email (chenxie95@sjtu.edu.cn) to explore the endless possibilities of AI together.   
 

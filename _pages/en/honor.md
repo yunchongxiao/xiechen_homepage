@@ -9,15 +9,23 @@ redirect_from:
   - /
 lang: en
 ---
-# Honors & Awards
-I am honored that my research and the work of my students have received recognition from the academic community and national programs. These accolades not only validate our past efforts but also inspire us to continue pushing the boundaries of science.
+# Honors and Awards
 
-Personal Honors:
-- Recipient, National Youth Talent Program    
-- Recipient, National High-Level Talents Program    
 
-Team & Student Honors:
-- 2024 Shanghai Outstanding Graduate: Zhisheng Zheng (Supervised Student)    
-- NLPCC 2024 Best Student Paper Award: ProSide Team    
-- INTERSPEECH 2023 Best Student Paper Shortlist: MT4SSL Team (Ziyang Ma et al.)    
-- CNSRC 2022 First Place, Speaker Verification Fixed Track: SJTU X-LANCE Lab Team    
+个人荣誉:
+
+- 2024年 微软亚洲研究院铸星计划
+- 2023年 ACM上海分会新星奖
+- 2023年 腾讯AI lab学术创新奖
+- 2021年 海外高层次人才(青年)项目    
+
+学生荣誉:
+
+- 2025年 校级优异本科毕设
+- 2025年 中国电子学会—腾讯博士生科研激励计划(混元大模型专项) 杨亦凡
+- 2025年 商汤奖学金 延瑞琦 （全国每年30人）
+- 2024年 上海市优秀毕业生: 郑之胜，陈琦
+- 2024年 荣昶奖学金 陈文熙 （全校每年10人)
+- 2023年 商汤本科生奖学金 郑之胜 （全国每年30人）  
+- 2023年 荣昶奖学金 郑之胜，陈琦 （全校每年10人）
+- 2023年 INTERSPEECH最佳学生论文提名  
