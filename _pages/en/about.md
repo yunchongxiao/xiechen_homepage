@@ -13,7 +13,7 @@ lang: en
 
 # Biography
 
-I am currently a Tenure-Track Associate Professor and Ph.D. advisor at the School of Computer Science, Shanghai Jiao Tong University, China. My research focuses on intelligent speech signal processing, including audio understanding, audio generation, and speech-to-speech dialogue systems. 
+I am currently a Tenure-Track Associate Professor at the School of Computer Science, Shanghai Jiao Tong University, China. My research focuses on deep learning for speech signal processing, including audio understanding, audio generation, and speech-to-speech dialogue models. 
 
 Over the past decade, I have been fortunate to live, study, and work in several wonderful cities — from Loudi@Hunan → Xiamen → Beijing → Cambridge → Seattle → Shanghai — and to meet many great mentors and collaborators along the way.
 

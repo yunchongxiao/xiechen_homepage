@@ -32,7 +32,8 @@ author:
   name             : 
     en: "Xie Chen"
     zh: "陈谐"
-  avatar           : "images/xiechen-avatar.jpeg" # "images/android-chrome-512x512.png"
+  # avatar           : "images/xiechen-avatar.jpeg" # "images/android-chrome-512x512.png"
+  avatar           : "images/xiechen-2.jpg" # "images/android-chrome-512x512.png"
   bio              : 
     en: "X-LANCE Lab @ SJTU"
     zh: "X-LANCE Lab @ SJTU"
